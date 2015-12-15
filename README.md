@@ -1,27 +1,14 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#RockPaperScissors
+
+### Overview
+This my own variation of rock scissors paper during my scriptEd class. This project allows the user to play against the computer. The computer's choice is determined randomly through a function in javascript.
+
+My own style of rock paper scissors consists of your standard rock paper scissors, along with a new addition of the drill, a troll, and the wrestler John Cena. 
 
 
-Hi there! Welcome to Cloud9 IDE!
+### Rules
+In my style of the game, the additions are
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-# rockpaperscissors
+* drill beats everything and gives an automatic win
+* John Cena puts the game on hold gives an automatic draw
+* the troll gives both players an automatic loss
