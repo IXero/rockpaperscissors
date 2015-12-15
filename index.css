@@ -1,0 +1,61 @@
+.container { 
+    width: 800px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 700px;
+}
+.token { 
+    width: 25%; 
+    border: 25px ridge seagreen; 
+    margin-left: 2px;
+    float:left;
+    text-align: center;
+    padding: 75px 0px 75px 0px;
+    font-size: x-large;
+    background-color: dodgerblue;
+}
+.selection {
+    clear: both;
+}
+#message {
+    text-align: center;
+}
+#rock{
+    background-image: url(http://pldh.net/media/dreamworld/076.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#paper{
+    background-image: url(http://img2.wikia.nocookie.net/__cb20110623180938/bleachfanfiction/images/a/ac/Konan_Paper_Wings.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#scissors{
+    background-image: url(http://img.pokemondb.net/artwork/scizor-mega.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#drill{
+    background-image: url(http://static.tvtropes.org/pmwiki/pub/images/gigadrillB_4990.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#JohnCena{
+    background-image: url(https://filthyorphan.files.wordpress.com/2013/11/super-cena-5729.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#troll{
+    background-image: url(https://heyitsmezac.files.wordpress.com/2014/08/433e5f_1411375.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
